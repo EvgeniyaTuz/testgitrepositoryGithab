@@ -1,0 +1,235 @@
+2019-19-05 12:38:34   INFO [loginTest.ValidTest] : Remote Driver will be started
+2019-19-05 12:39:22   INFO [loginTest.ValidTest] : Chrome will be started
+2019-19-05 12:39:26   INFO [loginTest.ValidTest] : Chrome is started
+2019-19-05 12:39:27   INFO [pages.LoginPage] : Page was opened
+2019-19-05 12:39:37  ERROR [libs.ActionsWithWebElements] : Text is not input
+2019-19-05 12:40:31   INFO [loginTest.ValidTest] : Chrome will be started
+2019-19-05 12:40:35   INFO [loginTest.ValidTest] : Chrome is started
+2019-19-05 12:40:35   INFO [pages.LoginPage] : Page was opened
+2019-19-05 12:40:35   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-19-05 12:40:36   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-19-05 12:40:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-19-05 12:40:45   INFO [loginTest.ValidTest] : Chrome will be started
+2019-19-05 12:40:49   INFO [loginTest.ValidTest] : Chrome is started
+2019-19-05 12:40:49   INFO [pages.LoginPage] : Page was opened
+2019-19-05 12:40:50   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-19-05 12:40:50   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-19-05 12:40:50   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:24:07   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:24:11   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:24:11   INFO [pages.LoginPage] : Page was opened
+2019-21-05 22:24:12   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:24:12   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:24:12   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:25:22   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:25:25   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:25:26   INFO [pages.LoginPage] : Page was opened
+2019-21-05 22:25:26   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:25:26   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:25:27   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:27:16   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:27:19   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:27:20   INFO [pages.LoginPage] : Page was opened
+2019-21-05 22:27:20   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:27:20   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:27:21   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:27:21   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:27:23   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:28:45   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:28:48   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:28:49   INFO [pages.LoginPage] : Page was opened
+2019-21-05 22:28:49   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:28:49   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:28:50   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:28:50   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:28:50   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:28:51   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:28:51   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:28:51  ERROR [libs.ActionsWithWebElements] : Button is not clicked
+2019-21-05 22:35:02   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:35:06   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:35:06   INFO [pages.LoginPage] : Page was opened
+2019-21-05 22:35:07   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:35:07   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:35:07   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:35:07   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:35:08   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:35:08   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:35:08   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:35:08  ERROR [libs.ActionsWithWebElements] : Button is not clicked
+2019-21-05 22:38:31   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 22:38:34   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 22:38:35   INFO [pages.LoginPage] : Page was opened
+2019-21-05 22:38:35   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:38:35   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 22:38:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:38:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:38:37   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:38:37   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:38:37   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:38:37   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 22:38:37   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:08:19   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 23:08:22   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 23:08:22   INFO [pages.LoginPage] : Page was opened
+2019-21-05 23:08:23   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:08:23   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:08:23   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:08:24  ERROR [libs.ActionsWithWebElements] : Button is not clicked
+2019-21-05 23:24:30   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 23:24:34   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 23:24:35   INFO [pages.LoginPage] : Page was opened
+2019-21-05 23:24:35   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:24:35   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:24:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:24:36  ERROR [libs.ActionsWithWebElements] : Button is not clicked
+2019-21-05 23:30:41   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 23:30:45   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 23:30:47   INFO [pages.LoginPage] : Page was opened
+2019-21-05 23:30:47   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:30:47   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:30:48   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:30:48   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:30:49   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:30:49   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:30:49   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:30:49   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:30:49   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:30:50   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:30:50   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:29   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 23:35:33   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 23:35:34   INFO [pages.LoginPage] : Page was opened
+2019-21-05 23:35:34   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:35:34   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:35:35   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:35   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:36   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:35:36   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:35:36   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:38   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:35:39   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:47   INFO [loginTest.ValidTest] : Chrome will be started
+2019-21-05 23:36:52   INFO [loginTest.ValidTest] : Chrome is started
+2019-21-05 23:36:52   INFO [pages.LoginPage] : Page was opened
+2019-21-05 23:36:52   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:36:53   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:36:53   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:53   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:54   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:54   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:54   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:36:54   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-21-05 23:36:55   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:57   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-21-05 23:36:57   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:43:33   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:43:37   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:43:40   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:43:40   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:43:40   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:43:40   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:43:41   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:43:43   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:43:46   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:43:46   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:43:46   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:43:46   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:44:16   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:44:19   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:44:22   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:44:22   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:44:22   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:44:23   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:44:23   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:44:25   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:44:26   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:44:26   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:44:26   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:44:26   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:45:06   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:45:10   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:45:10   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:45:10   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:45:11   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:45:11   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:45:12   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:45:14   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:45:14   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:45:14   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:45:15   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:45:15   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:46:21   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:46:25   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:46:25   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:46:25   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:46:25   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:46:26   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:46:27   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:46:29   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:46:29   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:46:29   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:46:29   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:46:30   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:47:14   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:47:17   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:47:17   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:47:18   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:47:18   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:47:18   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-25-05 12:47:19   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-25-05 12:47:21   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-25-05 12:47:21   INFO [pages.LoginPage] : Page was opened
+2019-25-05 12:47:22   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:47:22   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-25-05 12:47:22   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 10:00:09   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-26-05 10:00:13   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-26-05 10:00:14   INFO [pages.LoginPage] : Page was opened
+2019-26-05 10:00:14   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:14   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:15   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 10:00:15   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-26-05 10:00:17   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-26-05 10:00:18   INFO [pages.LoginPage] : Page was opened
+2019-26-05 10:00:18   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:18   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:19   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 10:00:40   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-26-05 10:00:44   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-26-05 10:00:45   INFO [pages.LoginPage] : Page was opened
+2019-26-05 10:00:45   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:45   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:45   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 10:00:46   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-26-05 10:00:48   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-26-05 10:00:49   INFO [pages.LoginPage] : Page was opened
+2019-26-05 10:00:49   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:49   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:00:49   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 10:00:58   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-26-05 10:01:02   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-26-05 10:01:02   INFO [pages.LoginPage] : Page was opened
+2019-26-05 10:01:02   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:01:02   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:01:03   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 10:01:03   INFO [loginTest.InvalidLoginWithParam] : Chrome will be started
+2019-26-05 10:01:05   INFO [loginTest.InvalidLoginWithParam] : Chrome is started
+2019-26-05 10:01:06   INFO [pages.LoginPage] : Page was opened
+2019-26-05 10:01:06   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:01:06   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 10:01:06   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 11:03:41   INFO [loginTest.ValidLoginWithXlsParam] : Chrome will be started
+2019-26-05 11:03:44   INFO [loginTest.ValidLoginWithXlsParam] : Chrome is started
+2019-26-05 11:03:47   INFO [pages.LoginPage] : Page was opened
+2019-26-05 11:03:47   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 11:03:47   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 11:03:48   INFO [libs.ActionsWithWebElements] : Button is clicked
+2019-26-05 11:05:25   INFO [loginTest.ValidLoginWithXlsParam] : Chrome will be started
+2019-26-05 11:05:28   INFO [loginTest.ValidLoginWithXlsParam] : Chrome is started
+2019-26-05 11:05:29   INFO [pages.LoginPage] : Page was opened
+2019-26-05 11:05:29   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 11:05:29   INFO [libs.ActionsWithWebElements] : Text is inputed
+2019-26-05 11:05:30   INFO [libs.ActionsWithWebElements] : Button is clicked
